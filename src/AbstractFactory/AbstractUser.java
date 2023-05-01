@@ -1,3 +1,5 @@
+package AbstractFactory;
+
 public interface AbstractUser {
     // 获取对应id的user
     User getUser(int id);

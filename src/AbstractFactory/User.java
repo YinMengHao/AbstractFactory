@@ -1,3 +1,5 @@
+package AbstractFactory;
+
 public class User {
     // 用户id
     private int _id;

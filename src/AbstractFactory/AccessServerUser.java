@@ -1,3 +1,5 @@
+package AbstractFactory;
+
 public class AccessServerUser implements AbstractUser {
     @Override
     public User getUser(int id) {

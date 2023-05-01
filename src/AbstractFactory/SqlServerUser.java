@@ -1,3 +1,5 @@
+package AbstractFactory;
+
 public class SqlServerUser implements  AbstractUser {
 
     @Override
